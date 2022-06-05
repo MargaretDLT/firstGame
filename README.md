@@ -1,8 +1,8 @@
+*The following is a video game project that I made for my software development class that I took at university. I created a video game on my own but based off a previous video game project were the profressor helped guide us by providing some of his own code and instuctions for a "Tank Game".
+
 # csc413-SecondGame
 
-## Student Name  : Margaret De La Torre
-## Student ID    : 917129465
-
+## Student Name  : Margaret De La Torre 
 
 ## src folder is to be used to store source code only.
 
